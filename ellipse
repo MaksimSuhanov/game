@@ -1,0 +1,3 @@
+arcade.create_ellipse_filled_with_colors(center_x=300, center_y=300, width = 200, height = 250,
+                                                 outside_color=arcade.color.CORNFLOWER_BLUE, inside_color=arcade.color.DUKE_BLUE,
+                                                 tilt_angle=45)
